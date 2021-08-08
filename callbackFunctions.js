@@ -1,3 +1,5 @@
+
+
 //Part 1
 //operate on 1 to n numbers based on the callback function
 //const calc = function(n, callback);
